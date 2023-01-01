@@ -1,0 +1,14 @@
+{
+  "name": "asaintvanne/bags",
+  "description": "Bag system easily retrieve datas once",
+  "autoload": {
+    "psr-4": {
+      "ASV\\Bags\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=8.0"
+  }
+}
